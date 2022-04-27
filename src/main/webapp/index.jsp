@@ -5,6 +5,6 @@
 	<h4 style="color: orange; font-size: 50px;" align="center">APU</h4>
 	<h5 style="color: grey; font-size: 50px;" align="center">MANI</h5>
 	<h6 style="color: black; font-size: 50px;" align="center">LAKSHMI</h6>
-	<h7 style="color: green; font-size: 50px;" align="center">  D D VENKAT</h7>
+	<h7 style="color: green; font-size: 50px;" align="center">DD VENKAT</h7>
 </body>
 </html>
